@@ -1,3 +1,5 @@
+# 👋 Hi, I'm Winissius!
+
 ## 👨‍💻 BackEnd
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,gcp,docker,js)](https://skillicons.dev)
@@ -35,11 +37,15 @@
 
 [<img alt="Linkedin" src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/winissius-machado/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=winissius&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winissius&layout=compact&theme=merko)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=winissius&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=winissius&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
 <div align="center">
   <br><p align="center"><b>Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{winissius}/count.svg" /></p> 
   <br>
 </div>
+
+
