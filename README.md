@@ -13,11 +13,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,mongodb,mysql)](https://skillicons.dev)
 
-
-## 🚀 Currently Learning
-
-[![My Skills](https://skillicons.dev/icons?i=ai,pytorch,sklearn,tensorflow)](https://skillicons.dev)
-
 ## 🔧 Low-Code/No-Code
 
 [<img height="48px" width="48px" alt="Node-RED" src="https://nodered.org/about/resources/media/node-red-icon-2.png" />]
@@ -25,6 +20,10 @@
 [<img height="48px" width="48px" alt="Bubble Icon" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/209915741/original/078aad966dd5a696f585485c46c0b7f3c20bbed3/develop-a-web-application-using-bubble.jpg" />](https://bubble.io)
 [<img height="48px" width="48px" alt="OutSystems Icon" src="https://github.com/user-attachments/assets/85a71121-7a2c-4d67-805b-a983600e4872" />](https://www.outsystems.com)
 
+
+## 🚀 Currently Learning
+
+[![My Skills](https://skillicons.dev/icons?i=ai,pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
 ## 🛠️ My Tools
 
