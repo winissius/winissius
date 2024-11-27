@@ -23,7 +23,7 @@
 
 ## 🚀 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=ai,pytorch,sklearn,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow)](https://skillicons.dev)
 
 ## 🛠️ My Tools
 
