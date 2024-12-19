@@ -7,7 +7,7 @@
 
 ## 🎨 FrontEnd
 
-[![My Skills](https://skillicons.dev/icons?i=django,flask,react,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask,django,react,grafana)](https://skillicons.dev)
 
 ## 🗄️ Databases
 
